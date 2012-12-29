@@ -25,6 +25,10 @@
     <guava.version>13.0.1</guava.version>
     <slf4j.version>1.7.2</slf4j.version>
   </properties>
+  
+  <scm>
+    <connection>scm:git:ssh://github.com/denormans/commons-super-pom.git</connection>
+  </scm>
 
   <dependencyManagement>
     <dependencies>
