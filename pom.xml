@@ -25,7 +25,7 @@
     <guava.version>13.0.1</guava.version>
     <slf4j.version>1.7.2</slf4j.version>
     <findbugs.version>2.0.1</findbugs.version>
-    <dropwizard.version>0.6.1</dropwizard.version>
+    <dropwizard.version>0.6.2</dropwizard.version>
     <yammer.metrics.version>2.2.0</yammer.metrics.version>
 
     <maven.build.timestamp.format>MM/dd/yyyy HH:mm z</maven.build.timestamp.format>
