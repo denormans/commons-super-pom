@@ -17,7 +17,7 @@
     <java.source.version>${java.required.version}</java.source.version>
     <java.target.version>${java.required.version}</java.target.version>
     <scala.version>2.13.6</scala.version>
-    <gwt.version>2.5.0</gwt.version>
+    <gwt.version>2.9.0</gwt.version>
     <atmosphere.version>2.6.4</atmosphere.version>
     <guice.version>5.0.1</guice.version>
     <spring.version>5.3.8</spring.version>
