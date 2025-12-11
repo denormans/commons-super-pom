@@ -17,7 +17,7 @@
     <java.source.version>${java.required.version}</java.source.version>
     <java.target.version>${java.required.version}</java.target.version>
     <scala.version>2.13.6</scala.version>
-    <gwt.version>2.9.0</gwt.version>
+    <gwt.version>2.10.0</gwt.version>
     <atmosphere.version>2.6.5</atmosphere.version>
     <guice.version>5.1.0</guice.version>
     <spring.version>5.3.39</spring.version>
@@ -40,7 +40,7 @@
     <dependencies>
       <!-- GWT -->
       <dependency>
-        <groupId>com.google.gwt</groupId>
+        <groupId>org.gwtproject</groupId>
         <artifactId>gwt-user</artifactId>
         <version>${gwt.version}</version>
       </dependency>
