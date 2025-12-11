@@ -19,7 +19,7 @@
     <scala.version>2.13.6</scala.version>
     <gwt.version>2.10.0</gwt.version>
     <atmosphere.version>2.6.5</atmosphere.version>
-    <guice.version>5.1.0</guice.version>
+    <guice.version>7.0.0</guice.version>
     <spring.version>5.3.39</spring.version>
     <mongodb.version>3.12.14</mongodb.version>
     <guava.version>30.1.1-jre</guava.version>
